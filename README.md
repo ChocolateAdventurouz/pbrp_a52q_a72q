@@ -1,1 +1,1 @@
-# pbrp_a52q_a72q
+## [UNOFFICIAL] PitchBlack Recovery Project for Samsung Galaxy A52/A72
